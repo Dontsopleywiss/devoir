@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+} 
+h1{
+    color:red;
+    margin-bottom: 50px;
+}
+table { 
+    color:green;
+
+}
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+input{
+    border-color: green;
+}
